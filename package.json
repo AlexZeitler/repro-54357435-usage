@@ -1,0 +1,23 @@
+{
+  "name": "repro-54357435-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexZeitler/repro-54357435-usage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "my-lib-54357435": "1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexZeitler/repro-54357435-usage/issues"
+  },
+  "homepage": "https://github.com/AlexZeitler/repro-54357435-usage#readme"
+}
